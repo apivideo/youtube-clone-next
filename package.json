@@ -1,0 +1,23 @@
+{
+  "name": "youtube-clone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3005",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@api.video/nodejs-client": "^2.2.2",
+    "next": "12.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-feather": "^2.0.9",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "eslint": "8.9.0",
+    "eslint-config-next": "12.1.0"
+  }
+}
