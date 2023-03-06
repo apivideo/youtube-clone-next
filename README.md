@@ -1,7 +1,5 @@
 <p align="center">
-<a  href="https://github.com/muxinc/stream.new">
-    <img src="https://github.com/apivideo/api.video-api-specification/blob/master/apivideo_banner.png?raw=true" alt="Api.video Logo" width="100%" >
-</a>
+  <img src="https://github.com/apivideo/.github/blob/main/assets/apivideo_banner.png" alt="Api.video Logo" width="100%" >
 </p>
 <h1 align="center">Rebuilding YouTube with api.video + Next.js 🔥</h1>
 <div align="center">
