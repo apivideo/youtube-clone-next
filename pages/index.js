@@ -97,8 +97,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Youtube clone by Api.video</title>
-        <meta name="description" content="Powered by Api.video" />
+        <title>Youtube clone by api.video</title>
+        <meta name="description" content="Powered by api.video" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar

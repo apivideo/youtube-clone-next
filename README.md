@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/apivideo/.github/blob/main/assets/apivideo_banner.png" alt="Api.video Logo" width="100%" >
+  <img src="https://github.com/apivideo/.github/blob/main/assets/apivideo_banner.png" alt="api.video Logo" width="100%" >
 </p>
 <h1 align="center">Rebuilding YouTube with api.video + Next.js 🔥</h1>
 <div align="center">
@@ -37,7 +37,7 @@ An open-source example application that allows users to list videos in the youtu
 
 # About The Project
 
-### Api.video:
+### api.video:
 
 - [@api.video/nodejs-client.](https://github.com/apivideo/api.video-nodejs-client) - api.video's Node.js is a lightweight client built in TypeScript that streamlines the coding process. Chunking files is handled for you, as is pagination and refreshing your tokens.
 
